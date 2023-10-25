@@ -1,0 +1,12 @@
+com.ludo.khelo.app-jetified-annotation-experimental-1.1.0-0 /Users/muhammadshahzeb/.gradle/caches/transforms-3/40aebe7700795438adbd3daab7ae1ff9/transformed/jetified-annotation-experimental-1.1.0/res
+com.ludo.khelo.app-core-1.6.0-1 /Users/muhammadshahzeb/.gradle/caches/transforms-3/5f7c8bec4875ba55b1273d724949c5bc/transformed/core-1.6.0/res
+com.ludo.khelo.app-jetified-window-1.0.0-beta04-2 /Users/muhammadshahzeb/.gradle/caches/transforms-3/b734f4f2ef56619cfc425335a55b8ea1/transformed/jetified-window-1.0.0-beta04/res
+com.ludo.khelo.app-jetified-window-java-1.0.0-beta04-3 /Users/muhammadshahzeb/.gradle/caches/transforms-3/c2678c1ffee94a989fa2d7f64d09a82e/transformed/jetified-window-java-1.0.0-beta04/res
+com.ludo.khelo.app-debug-4 /Users/muhammadshahzeb/Downloads/Flutter_Ludo-master/android/app/src/debug/res
+com.ludo.khelo.app-main-5 /Users/muhammadshahzeb/Downloads/Flutter_Ludo-master/android/app/src/main/res
+com.ludo.khelo.app-pngs-6 /Users/muhammadshahzeb/Downloads/Flutter_Ludo-master/build/app/generated/res/pngs/debug
+com.ludo.khelo.app-resValues-7 /Users/muhammadshahzeb/Downloads/Flutter_Ludo-master/build/app/generated/res/resValues/debug
+com.ludo.khelo.app-rs-8 /Users/muhammadshahzeb/Downloads/Flutter_Ludo-master/build/app/generated/res/rs/debug
+com.ludo.khelo.app-mergeDebugResources-9 /Users/muhammadshahzeb/Downloads/Flutter_Ludo-master/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.ludo.khelo.app-mergeDebugResources-10 /Users/muhammadshahzeb/Downloads/Flutter_Ludo-master/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.ludo.khelo.app-merged_res-11 /Users/muhammadshahzeb/Downloads/Flutter_Ludo-master/build/app/intermediates/merged_res/debug
