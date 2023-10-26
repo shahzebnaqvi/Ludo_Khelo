@@ -1,4 +1,4 @@
-# Ludo Game with Flutter 
+# Ludo Khelo Game with Flutter 
 
 Have you ever thought of gaining gaming experience with Flutter? Have you ever thought about building an app similar to Ludo King with modern features? Have you ever thought about how the Ludo app generates revenues? Here we go to build an interesting game with Flutter!
 
@@ -45,7 +45,7 @@ In order to play the game, you need to first run it using a simulator or device.
 
 ### 1️⃣ Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Flutter_Ludo](https://github.com/shahzebnaqvi/Ludo_Khelo) by using the <kbd><b>Fork</b></kbd> button.
+You can get your own fork/copy of [Ludo_Khelo](https://github.com/shahzebnaqvi/Ludo_Khelo) by using the <kbd><b>Fork</b></kbd> button.
 
 <br>
 
@@ -55,16 +55,16 @@ You can get your own fork/copy of [Flutter_Ludo](https://github.com/shahzebnaqvi
 You need to clone (download) it to local machine using
 
 ```sh
-$ git clone https://github.com/Your_Username/Flutter_Ludo.git
+$ git clone https://github.com/Your_Username/Ludo_Khelo.git
 ```
 
 > This makes a local copy of repository in your machine.
 
-Once you have cloned the `Flutter_Ludo` repository in Github, move to that folder first using change directory command on linux and Mac.
+Once you have cloned the `Ludo_Khelo` repository in Github, move to that folder first using change directory command on linux and Mac.
 
 ```sh
-# This will change directory to a folder Flutter_Ludo
-$ cd Flutter_Ludo
+# This will change directory to a folder Ludo_Khelo
+$ cd Ludo_Khelo
 ```
 
 Move to this folder for all other commands.
@@ -79,10 +79,10 @@ Run the following commands to see that *your local copy* has a reference to *you
 
 ```sh
 $ git remote -v
-origin  https://github.com/Your_Username/Flutter_Ludo.git (fetch)
-origin  https://github.com/Your_Username/Flutter_Ludo.git (push)
+origin  https://github.com/Your_Username/Ludo_Khelo.git (fetch)
+origin  https://github.com/Your_Username/Ludo_Khelo.git (push)
 ```
-Now, lets add a reference to the original [Flutter_Ludo](https://github.com/shahzebnaqvi/Ludo_Khelo) repository using
+Now, lets add a reference to the original [Ludo_Khelo](https://github.com/shahzebnaqvi/Ludo_Khelo) repository using
 
 ```sh
 $ git remote add upstream https://github.com/shahzebnaqvi/Ludo_Khelo
@@ -94,8 +94,8 @@ See the changes using
 
 ```sh
 $ git remote -v
-origin    https://github.com/Your_Username/Flutter_Ludo.git (fetch)
-origin    https://github.com/Your_Username/Flutter_Ludo.git (push)
+origin    https://github.com/Your_Username/Ludo_Khelo.git (fetch)
+origin    https://github.com/Your_Username/Ludo_Khelo.git (push)
 upstream  https://github.com/shahzebnaqvi/Ludo_Khelo.git (fetch)
 upstream  https://github.com/shahzebnaqvi/Ludo_Khelo.git (push)
 ```
@@ -119,7 +119,7 @@ $ git checkout master
 # Reset local `master` branch to match `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
-# Push changes to your forked `Flutter_Ludo` repo
+# Push changes to your forked `Ludo_Khelo` repo
 $ git push origin master
 ```
 
@@ -132,24 +132,4 @@ $ git push origin master
 Once you have completed these steps, you are ready to start building this project.
 
 <br>
-
-
-## 🔑 License
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
-
-
-
-### If you liked the repo then kindly support it by giving it a star ⭐!
-
-```csharp 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-```
-
-
-### To explore more and get regular updates, do follow: <a href="https://www.brlakgec.in/" alt="Blockchain Research lab"> BLOCKCHAIN RESEARCH LAB </a> 
-
-<p align="center">
-<img src="https://apoorv-cloud.github.io/Engineering_Guide/BlockChain/Blockchain.png" width="700" height="180">
-</p>
-
 
