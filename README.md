@@ -2,7 +2,7 @@
 
 Have you ever thought of gaining gaming experience with Flutter? Have you ever thought about building an app similar to Ludo King with modern features? Have you ever thought about how the Ludo app generates revenues? Here we go to build an interesting game with Flutter!
 
-[![support](https://img.shields.io/badge/plateform-flutter%7Candroid%20studio-9cf?style=for-the-badge&logo=appveyor)](https://github.com/Apoorv-cloud/Flutter_Ludo)
+[![support](https://img.shields.io/badge/plateform-flutter%7Candroid%20studio-9cf?style=for-the-badge&logo=appveyor)](https://github.com/shahzebnaqvi/Ludo_Khelo)
 [![License](https://img.shields.io/badge/License-Apache%202.0-2196F3.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![language](https://img.shields.io/github/languages/top/smokelaboratory/fludo.svg?style=for-the-badge&colorB=00bfab)](https://kotlinlang.org/)
 
@@ -36,7 +36,7 @@ In order to play the game, you need to first run it using a simulator or device.
 * Cut will happen when applicable.
 * A cut token will traverse all the way back to home occupying the first available slot. <br><br>
 
-![gameplpay](https://github.com/Apoorv-cloud/Flutter_Ludo/blob/master/images/ludo.jpg)
+![gameplpay](https://github.com/shahzebnaqvi/Ludo_Khelo/blob/master/images/ludo.jpg)
 
 
 ## ⭐ How to get started?
@@ -45,7 +45,7 @@ In order to play the game, you need to first run it using a simulator or device.
 
 ### 1️⃣ Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Flutter_Ludo](https://github.com/Apoorv-cloud/Flutter_Ludo) by using the <kbd><b>Fork</b></kbd> button.
+You can get your own fork/copy of [Flutter_Ludo](https://github.com/shahzebnaqvi/Ludo_Khelo) by using the <kbd><b>Fork</b></kbd> button.
 
 <br>
 
@@ -82,10 +82,10 @@ $ git remote -v
 origin  https://github.com/Your_Username/Flutter_Ludo.git (fetch)
 origin  https://github.com/Your_Username/Flutter_Ludo.git (push)
 ```
-Now, lets add a reference to the original [Flutter_Ludo](https://github.com/Apoorv-cloud/Flutter_Ludo) repository using
+Now, lets add a reference to the original [Flutter_Ludo](https://github.com/shahzebnaqvi/Ludo_Khelo) repository using
 
 ```sh
-$ git remote add upstream https://github.com/Apoorv-cloud/Flutter_Ludo
+$ git remote add upstream https://github.com/shahzebnaqvi/Ludo_Khelo
 ```
 
 > This adds a new remote named ***upstream***.
