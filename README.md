@@ -96,8 +96,8 @@ See the changes using
 $ git remote -v
 origin    https://github.com/Your_Username/Flutter_Ludo.git (fetch)
 origin    https://github.com/Your_Username/Flutter_Ludo.git (push)
-upstream  https://github.com/shagun25/Flutter_Ludo.git (fetch)
-upstream  https://github.com/shagun25/Flutter_Ludo.git (push)
+upstream  https://github.com/shahzebnaqvi/Ludo_Khelo.git (fetch)
+upstream  https://github.com/shahzebnaqvi/Ludo_Khelo.git (push)
 ```
 
 <br>
@@ -153,17 +153,3 @@ Once you have completed these steps, you are ready to start building this projec
 </p>
 
 
-<p align="center">
-  <a href="https://medium.com/blockchain-research-lab-akgec" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Blockchain Research Lab" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/BlockchainResearchLab/?ref=br_rs" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" alt="Blockchain Research Lab" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/blockchain-research-lab/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Blockchain Research Lab" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brl_akgec/" target="blank">	
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Blockchain Research Lab" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp; </p><br/>
-<br />
